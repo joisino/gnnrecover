@@ -1,0 +1,13 @@
+*
+
+!*/
+!*.py
+!README.md
+!imgs/visible.png
+!imgs/illust1.png
+!imgs/illust2.png
+!imgs/illust3.png
+!imgs/illust4.png
+!imgs/results_semi.png
+!imgs/results_ind.png
+!.gitignore
